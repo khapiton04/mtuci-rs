@@ -1,1 +1,5 @@
-
+[workspace]
+members = [
+    "ch1",
+    "fizzbuzz",
+    ]
